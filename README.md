@@ -89,7 +89,6 @@ source("analise_candidatos.R")
 
 - **`analise_candidatos.R`**: Código principal que baixa os dados e gera os gráficos com base nas variáveis analisadas.
 - **`graficos/`**: Pasta com os gráficos gerados pela análise.
-- **`dados/`**: Arquivo CSV com os dados dos candidatos.
 - **`README.md`**: Este arquivo de documentação.
 
 ## Contribuições
