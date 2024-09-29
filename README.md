@@ -1,0 +1,1 @@
+# An-lise-de-Candidatos-das-Elei-es-de-Guarulhos-2020
